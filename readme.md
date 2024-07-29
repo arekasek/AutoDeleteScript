@@ -1,4 +1,4 @@
-## Directory Cleaner Script
+### Directory Cleaner Script
 
 This script allows you to clean specified file extensions from a given directory. It supports both command-line arguments and interactive dialogs for user input.
 
